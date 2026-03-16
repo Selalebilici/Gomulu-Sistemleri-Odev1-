@@ -34,4 +34,5 @@ Yükleme (Flash): OpenOCD aracı aracılığıyla firmware ST-Link üzerinden MC
 Hata Ayıklama (Debug): Kodun kritik satırlarına Breakpoint eklenerek program dağılımı durdurulmuş, işlemci kayıtçıları ve pin durumu canlı olarak gözlemlenmiştir.
 
 🎥 Uygulama Videoları
-Projenin çalışma sistemleri ve hata ayıklama aşamalarını içeren YouTube videosuna aşağıdaki bağlantıdan ulaşabilirsiniz: [link]
+Projenin çalışma sistemleri ve hata ayıklama aşamalarını içeren YouTube videosuna aşağıdaki bağlantıdan ulaşabilirsiniz: 
+https://youtu.be/zp7KmKA8OkU
